@@ -7,6 +7,7 @@ from pprint import pprint
 from prettytable import PrettyTable
 from tabulate import tabulate
 import pandas as pd
+from decouple import config
 
 def api_call(ip_addr, port, command, json_payload, sid):
     url = 'https://' + ip_addr + '/web_api/' + command
@@ -28,7 +29,9 @@ def login(user,password,domain):
 
 def main():
     print("Logging in..")
-    sid = login('rishabh','parihar@16','')
+#    passwd = os.getenv('cp_password')
+    passwd = config('cp_password')
+    sid = login('rishabh',passwd,'')
     print("session id: " + sid)
     payload = { "limit" : 50, "offset" : 0, "details-level" : "full"}
     get_domains = api_call('192.168.251.5', 443, 'show-domains', payload, sid)
