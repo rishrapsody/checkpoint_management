@@ -1,0 +1,2 @@
+IPv4,Cluster,Member1,IP1,Member2,IP2,Anti-Bot,Anti-Virus,App-Ctrl,Content,Url-F,VPN
+169.254.50.1,Supporttaclab-FW,supporttaclab-FW01,192.168.200.212,Supporttaclab-FW02,192.168.200.213,True,True,True,False,True,True

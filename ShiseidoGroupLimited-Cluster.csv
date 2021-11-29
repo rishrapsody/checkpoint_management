@@ -1,0 +1,12 @@
+IPv4,Cluster,Member1,IP1,Member2,IP2,Anti-Bot,Anti-Virus,App-Ctrl,Content,Url-F,VPN
+169.254.50.4,fw-am-us-nyc1-vnfchkp-001,fw-am-us-nyc1-vnfchkp-001-1,100.64.0.10,fw-am-us-nyc1-vnfchkp-001-2,100.64.0.11,True,True,True,False,True,False
+169.254.50.7,fw-ap-id-sidn-vnfchkp-001,fw-ap-id-sidn-vnfchkp-001-1,100.64.0.59,fw-ap-id-sidn-vnfchkp-001-2,100.64.0.60,True,True,True,False,True,True
+169.253.50.10,fw-ap-kr-idc-vnfchkp-001,fw-ap-kr-idc-vnfchkp-001-1,100.64.0.98,fw-ap-kr-idc-vnfchkp-001-2,100.64.0.99,True,True,True,False,True,False
+169.254.50.8,fw-ap-my-sml-vnfchkp-001,fw-ap-my-sml-vnfchkp-001-1,100.64.0.74,fw-ap-my-sml-vnfchkp-001-2,100.64.0.75,True,True,True,False,True,False
+100.64.0.146,fw-ap-ph-sph-vnfchkp-001,fw-ap-ph-sph-vnfchkp-001-1,100.64.0.147,fw-ap-ph-sph-vnfchkp-001-2,100.64.0.148,True,True,True,False,True,False
+169.254.50.1,fw-ap-sg-rhq-vnfchkp-001,fw-ap-sg-rhq-vnfchkp-001-1,100.64.0.91,fw-ap-sg-rhq-vnfchkp-001-2,100.64.0.92,True,True,True,False,True,False
+169.254.50.9,fw-ap-th-sth-vnfchkp-001,fw-ap-th-sth-vnfchkp-001-1,100.64.0.82,fw-ap-th-sth-vnfchkp-001-2,100.64.0.83,True,True,True,False,True,False
+169.254.50.3,fw-ap-tw-rhq-vnfchkp-001,fw-ap-tw-rhq-vnfchkp-001-1,100.64.0.2,fw-ap-tw-rhq-vnfchkp-001-2,100.64.0.3,True,True,True,False,True,False
+169.254.50.6,fw-ap-vn-scv-vnfchkp-001,fw-ap-vn-scv-vnfchkp-001-1,100.64.0.66,fw-ap-vn-scv-vnfchkp-001-2,100.64.0.67,True,True,True,False,True,True
+169.254.50.5,fw-ch-cn-21v-vnfchkp-001,fw-ch-cn-21v-vnfchkp-001-1,100.64.0.18,fw-ch-cn-21v-vnfchkp-001-2,100.64.0.19,True,True,True,False,True,True
+169.254.50.2,fw-jp-jp-kdc-vnfchkp-001,fw-jp-jp-kdc-vnfchkp-001-1,100.64.0.26,fw-jp-jp-kdc-vnfchkp-001-2,100.64.0.27,True,True,True,False,True,False

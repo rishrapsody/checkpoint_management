@@ -1,0 +1,6 @@
+IPv4,Cluster,Member1,IP1,Member2,IP2,Anti-Bot,Anti-Virus,App-Ctrl,Content,Url-F,VPN
+100.64.52.34,CDC1-HA,CDC1-FW02,100.64.52.36,CDC1-FW01,100.64.52.35,True,True,True,False,True,False
+100.64.52.18,DublinHQ-HA,DublinHQ-FW01,100.64.52.19,DublinHQ-FW02,100.64.52.20,True,True,True,False,True,False
+100.64.52.10,LosAngeles-HA,Los_Angeles-FW01,100.64.52.12,Los_Angeles-FW02,100.64.52.13,True,True,True,False,True,False
+100.64.52.2,Shannon-HA,Shannon-FW2,100.64.52.5,Shannon-FW1,100.64.52.4,True,True,True,False,True,False
+100.64.52.26,SIngapore-HA,Singapore-FW01,100.64.52.27,Singapore-FW02,100.64.52.28,True,True,True,False,True,False

@@ -1,0 +1,3 @@
+IPv4,Cluster,Member1,IP1,Member2,IP2,Anti-Bot,Anti-Virus,App-Ctrl,Content,Url-F,VPN
+169.254.50.2,Ankney-HA,Ankney-FW01,100.64.40.12,Ankeny-FW02,100.64.40.13,True,True,True,False,True,False
+100.64.40.2,Waukee-HA,Waukee-FW01,100.64.40.4,Waukee-FW02,100.64.40.5,True,True,True,False,True,False

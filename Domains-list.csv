@@ -1,0 +1,15 @@
+ID,Domain,Mgmt Server,Log Server
+1,AerCap_Ireland_Limited,192.168.251.22,Not Configured
+2,Alcami_Corporation,192.168.251.24,Not Configured
+3,Braemar_Shipping_Services_Plc,192.168.251.21,Not Configured
+4,CoatsPLC,192.168.251.15,192.168.251.115
+5,HirschBednerAssociates,192.168.251.14,Not Configured
+6,Hubbell_Inc,192.168.251.13,192.168.251.113
+7,Navis_LLC,192.168.251.23,Not Configured
+8,Polymer_Solutions_Group,192.168.251.16,Not Configured
+9,Schenck_Process,192.168.251.20,Not Configured
+10,SDL_PLC,192.168.251.17,Not Configured
+11,ShiseidoGroupLimited,192.168.251.12,Not Configured
+12,support_tac_lab,192.168.251.11,192.168.251.111
+13,The_Lauridsen_Group_Inc,192.168.251.19,Not Configured
+14,Wilton_RE_Services_Inc,192.168.251.18,Not Configured

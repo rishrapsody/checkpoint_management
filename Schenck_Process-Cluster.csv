@@ -1,0 +1,2 @@
+IPv4,Cluster,Member1,IP1,Member2,IP2,Anti-Bot,Anti-Virus,App-Ctrl,Content,Url-F,VPN
+169.254.50.1,Johannesburg-HA,Johannesburg-FW01,100.64.44.4,Johannesburg-FW02,100.64.44.5,True,True,True,False,True,False
